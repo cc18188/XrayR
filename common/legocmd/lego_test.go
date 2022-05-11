@@ -3,7 +3,7 @@ package legocmd_test
 import (
 	"testing"
 
-	"github.com/Misaka-blog/XrayR/common/legocmd"
+	"github.com/cc18188/XrayR/common/legocmd"
 )
 
 func TestLegoClient(t *testing.T) {
